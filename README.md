@@ -63,16 +63,22 @@ The survey on diffusion-based graph genrative methods
 | MLD (CVPR-23) | [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Executing_Your_Commands_via_Motion_Diffusion_in_Latent_Space_CVPR_2023_paper.html) | [[code]](https://github.com/chenfengye/motion-latent-diffusion) | [[homepage]](https://chenxin.tech/mld/) | PriorMDM | [[paper]](https://arxiv.org/abs/2303.01418) | [[code]](https://github.com/priorMDM/priorMDM) | [[homepage]](https://priormdm.github.io/priorMDM-page/) |
 | Alexanderson et al. (ACM Trans. Graph.) | [[paper]](https://arxiv.org/abs/2211.09707) | - | - | EDGE (CVPR-23) | [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Tseng_EDGE_Editable_Dance_Generation_From_Music_CVPR_2023_paper.html) | [[code]](https://github.com/Stanford-TML/EDGE) | [[homepage]](https://edge-dance.github.io/) |
 | SceneDiffuser | [[paper]](https://arxiv.org/abs/2301.06015) | [[code]](https://github.com/scenediffuser/Scene-Diffuser) | [[homepage]](https://scenediffuser.github.io/) | MoDi (CVPR-23) | [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Raab_MoDi_Unconditional_Motion_Synthesis_From_Diverse_Data_CVPR_2023_paper.html) | [[code]](https://github.com/sigal-raab/MoDi) | [[homepage]](https://sigal-raab.github.io/MoDi) |
-| BiGraphDiff | [[paper]](https://arxiv.org/abs/2301.10134) | - | - | - | [[paper]]() | - | - |
-| - | [[paper]]() | - | - | - | [[paper]]() | - | - |
-| - | [[paper]]() | - | - | - | [[paper]]() | - | - |
+| BiGraphDiff | [[paper]](https://arxiv.org/abs/2301.10134) | - | - | - | - | - | - |
+<!-- | - | [[paper]]() | - | - | - | [[paper]]() | - | - |
+| - | [[paper]]() | - | - | - | [[paper]]() | - | - | -->
 ### Motion prediction
 | Methods | Paper | Code | Homepage |
 | :----: | :----: | :----: | :----: |
 | Ahn et al. (ICRA-23) | [[paper]](https://arxiv.org/abs/2302.14503) | [[code]](https://github.com/cotton-ahn/diffusion-motion-prediction) | [[homepage]](https://sites.google.com/view/diffusion-motion-prediction) |
 | HumanMAC | [[paper]](https://arxiv.org/abs/2302.03665) | [[code]](https://github.com/LinghaoChan/HumanMAC) | [[homepage]](https://lhchen.top/Human-MAC/) |
 ## Others
-
+| Methods | Paper | Code | Homepage | Methods | Paper | Code | Homepage |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| EDP-GNN | [[paper]](https://proceedings.mlr.press/v108/niu20a.html) | - | - | GSDM | [[paper]](https://arxiv.org/abs/2211.08892) | - | - |
+| NVDiff | [[paper]](https://arxiv.org/abs/2211.10794) | - | - | DPM-GSP | [[paper]](https://arxiv.org/abs/2302.10506) | - | - |
+| DiffSTG | [[paper]](https://arxiv.org/abs/2301.13629) | - | - | DIFUSCO | [[paper]](https://arxiv.org/abs/2302.08224) | - | - |
+| GraphGDP | [[paper]](https://arxiv.org/abs/2212.01842) | [[code]](https://github.com/GRAPH-0/GraphGDP) | - | HouseDiffusion | [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Shabani_HouseDiffusion_Vector_Floorplan_Generation_via_a_Diffusion_Model_With_Discrete_CVPR_2023_paper.html) | [[code]](https://github.com/aminshabani/house_diffusion) | [[homepage]](https://aminshabani.github.io/housediffusion/) |
+| NAP | [[paper]](https://arxiv.org/abs/2305.16315) | - | [[homepage]](https://www.cis.upenn.edu/~leijh/projects/nap/) | - | - | - | - |
 ## Datasets
 
 ### Molecule generation
