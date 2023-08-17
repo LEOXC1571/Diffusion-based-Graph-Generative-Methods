@@ -30,7 +30,8 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | EDM (ICML-22) | [[paper]](https://proceedings.mlr.press/v162/hoogeboom22a.html) | [[code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules) |  Wu et al. (NeurIPS-22) | [[paper]](https://openreview.net/forum?id=QagNEt9k8Vi) | - |
 | MDM (AAAI-23) | [[paper]](https://arxiv.org/abs/2209.05710) | [[code]](https://github.com/tencent-ailab/MDM) | DiffLinker | [[paper]](https://openreview.net/forum?id=viZ4G1WZxh) | [[code]](https://github.com/igashov/DiffLinker) |
 | JODO | [[paper]](https://doi.org/10.48550/arXiv.2305.12347) | [[code]](https://github.com/GRAPH-0/JODO)| SILVR | [[paper]](https://doi.org/10.48550/arXiv.2304.10905) | - |
-| HierDiff (ICML-23) | [[paper]](https://proceedings.mlr.press/v202/qiang23a.html) | [[code]](https://github.com/qiangbo1222/HierDiff) | - | - | - |
+| HierDiff (ICML-23) | [[paper]](https://proceedings.mlr.press/v202/qiang23a.html) | [[code]](https://github.com/qiangbo1222/HierDiff) | GeoLDM (ICML-23) | [[papar]](https://proceedings.mlr.press/v202/xu23n.html) | [[code]](https://github.com/MinkaiXu/GeoLDM) |
+| DiffMol (ICML-23) | [[paper]](https://openreview.net/forum?id=x43ZyXJC9q) | - | - | - | - |
 
 ### Conformation design
 | Methods | Paper | Code | Methods | Paper | Code |
