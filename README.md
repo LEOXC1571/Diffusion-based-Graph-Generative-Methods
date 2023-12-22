@@ -89,10 +89,10 @@ This is the summation of all the methods, datasets, and other survey mentioned i
 | NVDiff | [[paper]](https://arxiv.org/abs/2211.10794) | - | - | DPM-GSP | [[paper]](https://arxiv.org/abs/2302.10506) | - | - |
 | DiffSTG | [[paper]](https://arxiv.org/abs/2301.13629) | - | - | DIFUSCO | [[paper]](https://arxiv.org/abs/2302.08224) | - | - |
 | GraphGDP | [[paper]](https://arxiv.org/abs/2212.01842) | [[code]](https://github.com/GRAPH-0/GraphGDP) | - | HouseDiffusion (CVPR-23) | [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Shabani_HouseDiffusion_Vector_Floorplan_Generation_via_a_Diffusion_Model_With_Discrete_CVPR_2023_paper.html) | [[code]](https://github.com/aminshabani/house_diffusion) | [[homepage]](https://aminshabani.github.io/housediffusion/) |
-| NAP | [[paper]](https://arxiv.org/abs/2305.16315) | - | [[homepage]](https://www.cis.upenn.edu/~leijh/projects/nap/) | EDGE | [[paper]](https://arxiv.org/abs/2305.04111) | - | - |
+| NAP | [[paper]](https://arxiv.org/abs/2305.16315) | - | [[homepage]](https://www.cis.upenn.edu/~leijh/projects/nap/) | EDGE (ICML-23) | [[paper]](https://openreview.net/forum?id=vn9O1N5ZOw) | - | - |
 | DruM | [[paper]](https://arxiv.org/abs/2302.03596) | - | - | DDM | [[Paper]](https://arxiv.org/abs/2306.13210) | - | - |
 | DiffusionNAG | [[paper]](https://arxiv.org/abs/2305.16943) | - | - | TSDiff | [[paper]](https://doi.org/10.21203/rs.3.rs-2924237/v1) | - | - |
-| GraphArm | [[paper]](https://openreview.net/forum?id=98J48HZXxd5) | - | - | HGDM | [[paper]](https://doi.org/10.48550/arXiv.2306.07618) | [[code]](https://github.com/GRAPH-0/JODO) | - |
+| GraphArm (ICML-23) | [[paper]](https://proceedings.mlr.press/v202/kong23b.html) | - | - | HGDM | [[paper]](https://doi.org/10.48550/arXiv.2306.07618) | [[code]](https://github.com/GRAPH-0/JODO) | - |
 | Lee et al. | [[paper]](https://doi.org/10.1080/15376494.2023.2198528) | - | - | SaGess | [[paper]](https://doi.org/10.48550/arXiv.2306.16827) | - | - |
 | SLD | [[paepr]](https://openreview.net/forum?id=AykEgQNPJEK) | - | - | Diff-POI | [[paper]](https://doi.org/10.48550/arXiv.2304.07041) | - | - |
 | Brain Diffuser | [[paper]](https://doi.org/10.48550/arXiv.2303.06410) | - | - | Lu et al. | [[paper]](https://doi.org/10.48550/arXiv.2304.05137) | - | - |
